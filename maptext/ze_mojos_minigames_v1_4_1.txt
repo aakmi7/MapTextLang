@@ -6,7 +6,7 @@
 	}
 	"* * * If you dont complete a map objective you will take 20% of your health as UNHEALABLE DAMAGE - try to play by the rules * * *"
 	{
-		"chi"		"**如果你没有完成地图目标你将会被永久扣除20％的血量 - 试着遵守游戏规则  **"
+		"chi"		"**如果你没有完成小游戏你当局游戏会被永久扣除20％的血量 - 试着遵守游戏规则  **"
 	}
 	"* * * BOUNCEBOX!* * *"
 	{
@@ -14,11 +14,11 @@
 	}
 	"* * * Evade the glowy stuff and dont step on the goo * * *"
 	{
-		"chi"		"** 躲避发光的东西，不要踩到粘性物质上 **"
+		"chi"		"** 躲避发光的箱子，不要踩到它 **"
 	}
 	"* * * Just stay alive! * * *"
 	{
-		"chi"		"** 只需要活着! **"
+		"chi"		"** 活下来就行 **"
 	}
 	"* * * Choose the first MINIGAME * * *"
 	{
